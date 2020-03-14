@@ -1,0 +1,16 @@
+{
+  "name": "back_end",
+  "version": "1.0.0",
+  "description": "even handling program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "spinnekle",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "github:mysqljs/mysql"
+  }
+}
